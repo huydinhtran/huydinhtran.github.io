@@ -28,5 +28,4 @@ Experience
 
 * 08/2022 - 09/2022: CPU Research Intern
   * Futurewei Technologies, Inc.
-
-
+  * Advisor: Dr. Sang Wook Do
