@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a first-year PhD Computer Science student at [The University of Kansas](https://ku.edu/). I'm currently working as a Graduate Research Assistant under the guidance of [Professor Mohammad Alian](https://alian-eecs.ku.edu/). My research interest is computer architecture and systems with a concentration on computer system simulation, profiling/sampling workload, and performance/power models. My current research focuses on developing standard sampling methodology for scale-out applications.
+I'm currently a first-year PhD Computer Science student at [The University of Kansas](https://ku.edu/). I'm currently working as a Graduate Research Assistant under the guidance of [Professor Mohammad Alian](https://alian-eecs.ku.edu/). My research interest is computer architecture and systems with a concentration on computer system simulation, profiling/sampling workload, and performance/power models. My current research focuses on developing standard sampling methodologies for scale-out applications.
 
 
 News
