@@ -15,4 +15,4 @@ News
 ======
 * 08/18/2024 GTA for EECS 581 - Software Engineering II
 * 07/29/2024 Attended gem5 Bootcamp at UC Davis
-* 08/15/2023 Started PhD journey as GRA under the supervision of Professor Mohammad Alian 
+* 08/15/2023 Started PhD journey as GRA under Professor Mohammad Alian 
