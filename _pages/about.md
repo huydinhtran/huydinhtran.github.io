@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a PhD Computer Science student at [The University of Kansas](https://ku.edu/) under the guidance of [Professor Mohammad Alian (Cornell University)](https://alian.csl.cornell.edu/). My research interest is computer architecture and systems with a concentration on processor microarchitecture, computer system simulation, profiling/sampling workload, and performance/power models.
+I'm currently a PhD Computer Science student at University of Kansas under the guidance of [Professor Mohammad Alian (Cornell University)](https://alian.csl.cornell.edu/). I completed my MS and BS degrees from University of California, Riverside and Pennsylvania State University, respectively. My research interest is computer architecture and systems with a concentration on processor microarchitecture design, computer system simulation, profiling/sampling workload, and performance/power models. 
+
+Publications 
+======
+* Amin Mamandipoor, **Huy Dinh Tran**, Mohammad Alian, *“SDT: Cutting Datacenter Tax Through Simultaneous Data-Delivery Threads”* (Under Review, ISCA 2025)
+* Amin Mamandipoor, **Huy Dinh Tran**, Mohammad Alian, *“Simultaneous Multithreading in gem5 Full System Simulation”* (In Preparation)
 
 
 News
