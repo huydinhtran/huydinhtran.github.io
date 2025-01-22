@@ -13,7 +13,7 @@ I'm currently a PhD Computer Science student at University of Kansas under the g
 Publications 
 ======
 * Amin Mamandipoor, **Huy Dinh Tran**, Mohammad Alian, *“SDT: Cutting Datacenter Tax Through Simultaneous Data-Delivery Threads”* (Under Review, ISCA 2025)
-* Amin Mamandipoor, **Huy Dinh Tran**, Mohammad Alian, *“Simultaneous Multithreading in gem5 Full System Simulation”* (In Preparation)
+<!-- * Amin Mamandipoor, **Huy Dinh Tran**, Mohammad Alian, *“Simultaneous Multithreading in gem5 Full System Simulation”* (In Preparation) -->
 
 
 News
